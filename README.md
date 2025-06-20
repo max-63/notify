@@ -38,7 +38,7 @@ Voicci un exemple d'utilisation :
 </head>
 <body>
   <button id="notifyBtn">🛎️ Notifier</button>
-  <button>dfze</button>
+  <button>autre</button>
   <script type="module">
     import { notify } from '../dist/index.js'; // ou le bon chemin
 
