@@ -1,0 +1,13 @@
+{
+    "scripts": {
+        "build": "tsc"
+    },
+    "main": "dist/index.js",    
+    "types": "dist/index.d.ts",      
+    "files": [
+        "dist"
+    ],
+    "keywords": ["toast", "notification", "typescript", "javascript", "alert", "success", "error", "warning", "info"],
+    "author": "Adrien",
+    "license": "MIT"
+}
