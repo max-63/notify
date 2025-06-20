@@ -59,3 +59,40 @@ Voicci un exemple d'utilisation :
 </html>
 
 ```
+## 🔧 Options disponibles
+
+| Clé       | Type                                | Description                                         |
+|-----------|-------------------------------------|-----------------------------------------------------|
+| `title`   | `string`                            | Titre (facultatif)                                  |
+| `message` | `string`                            | Message principal (**obligatoire**)                 |
+| `duration`| `number`                            | Durée en ms (ex : `5000` pour 5 secondes)           |
+| `type`    | `"success"` \| `"error"` \| `"warning"` \| `"info"` | Type de toast (couleur / icône)     |
+| `icon`    | `boolean`                           | Affiche une icône correspondante                    |
+| `style`   | `"clair"` \| `"fonce"`              | Thème clair ou foncé                                |
+
+---
+
+## 📦 Structure du package
+
+- `dist/` : fichiers compilés (`.js`, `.d.ts`, images)
+- Compatible **JavaScript** et **TypeScript**
+- **Léger**, sans dépendance externe
+
+---
+
+## 🤝 Contribution
+
+Envie d’ajouter une fonctionnalité, corriger un bug, ou améliorer le style ?  
+N’hésite pas à **forker**, coder ta feature, puis proposer une **Pull Request**. 💪
+
+---
+
+## 🐣 Auteur
+
+Créé avec 💻 et ☕ par **Max‑63 (Adrien)**.
+
+---
+
+## 📄 Licence
+
+Ce projet est publié sous licence **MIT** – libre d'utilisation et de modification.
