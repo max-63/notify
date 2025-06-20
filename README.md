@@ -7,16 +7,14 @@ Fonctionne aussi bien en JS qu'en TS, simple à utiliser et visuellement propre.
 
 ## ✨ Aperçu
 
-Voici quelques captures d’écran montrant le résultat :
-![Uploading Capture_d_écran_![Capture_d_écran_2025-06-20_163859-removebg-preview](https://github.com/user-attachments/assets/629bd697-798b-4514-a43f-9d689df5a21c)
-![Capture_d_écran_2025-06-20_164225-removebg-preview](https://github.com/user-attachments/assets/3de63342-80b6-4411-8400-4482cbf21eaa)
-2025-06-20_164417-removebg-preview.png…]()
-![Capture_d_écran_2025-06-20_164448-removebg-preview](https://github.com/user-attachments/assets/fd8b0b3b-cb49-4bd4-ad84-e108c5e8955f)
-![Capture_d_écran_2025-06-20_164525-removebg-preview](https://github.com/user-attachments/assets/8ae36821-186b-4496-a567-7392389b5178)
-![Capture_d_écran_2025-06-20_164550-removebg-preview](https://github.com/user-attachments/assets/30e67e8e-5b3d-4274-81e9-e92ce5ddc112)
-![Capture_d_écran_2025-06-20_164609-removebg-preview](https://github.com/user-attachments/assets/402eb27d-88a2-4e68-845f-1d31301ce13a)
-![Capture_d_écran_2025-06-20_164632-removebg-preview](https://github.com/user-attachments/assets/f2665089-cda9-44de-969e-15c05cfeeeaf)
-
+![Capture_d_écran_2025-06-20_164632-removebg-preview](https://github.com/user-attachments/assets/9692fc3d-7e01-4556-ad9f-16a9c351758d)
+![Capture_d_écran_2025-06-20_163859-removebg-preview](https://github.com/user-attachments/assets/663db643-c5f0-4914-945a-5ddb2d67b448)
+![Capture_d_écran_2025-06-20_164225-removebg-preview](https://github.com/user-attachments/assets/be9f7e29-ea04-483d-a748-1d124225fca2)
+![Capture_d_écran_2025-06-20_164417-removebg-preview](https://github.com/user-attachments/assets/e1b492e9-ed4a-4a47-b4b3-8283cc926561)
+![Capture_d_écran_2025-06-20_164448-removebg-preview](https://github.com/user-attachments/assets/c454a6cb-32aa-4e45-a347-d6da8e28e1c2)
+![Capture_d_écran_2025-06-20_164525-removebg-preview](https://github.com/user-attachments/assets/155325db-418f-4dbf-9dc8-7322d8463621)
+![Capture_d_écran_2025-06-20_164550-removebg-preview](https://github.com/user-attachments/assets/169e3b96-63a3-4396-803b-747f2efade5e)
+![Capture_d_écran_2025-06-20_164609-removebg-preview](https://github.com/user-attachments/assets/3b7bc012-f4ae-4779-9108-40ad904449ec)
 
 
 ---
