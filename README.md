@@ -63,8 +63,8 @@ Voicci un exemple d'utilisation :
 
 | Clé       | Type                                | Description                                         |
 |-----------|-------------------------------------|-----------------------------------------------------|
-| `title`   | `string`                            | Titre (facultatif)                                  |
-| `message` | `string`                            | Message principal (**obligatoire**)                 |
+| `title`   | `string`                            | Titre (**obligatoire**)                                  |
+| `message` | `string`                            | Message principal (facultatif)                 |
 | `duration`| `number`                            | Durée en ms (ex : `5000` pour 5 secondes)           |
 | `type`    | `"success"` \| `"error"` \| `"warning"` \| `"info"` | Type de toast (couleur / icône)     |
 | `icon`    | `boolean`                           | Affiche une icône correspondante                    |
