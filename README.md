@@ -24,4 +24,38 @@ Voici quelques captures d’écran montrant le résultat :
 
 ```bash
 npm install @max-63/notify
+```
 
+## Exemple
+
+Voicci un exemple d'utilisation :
+
+```html
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <title>Test Toast Notification</title>
+</head>
+<body>
+  <button id="notifyBtn">🛎️ Notifier</button>
+  <button>dfze</button>
+  <script type="module">
+    import { notify } from '../dist/index.js'; // ou le bon chemin
+
+
+    document.getElementById('notifyBtn').addEventListener('click', () => {
+      notify({
+        title: "Notification Adrien !",
+        message: "Ceci est une alerte personnalisée.",
+        duration: 5000,
+        type: "error",
+        icone: true,
+        style: "fonce"
+      });
+    })
+  </script>
+</body>
+</html>
+
+```
