@@ -1,4 +1,4 @@
-![Capture_d_écran_2025-06-20_164417-removebg-preview](https://github.com/user-attachments/assets/cdf934a9-d31a-44fa-891d-6dd62cde58a7)# 📦 notify
+# 📦 notify
 
 Un **petit paquet JavaScript / TypeScript** pour afficher des **notifications toast** en bas à droite de l’écran.  
 Fonctionne aussi bien en JS qu'en TS, simple à utiliser et visuellement propre. 🔥
