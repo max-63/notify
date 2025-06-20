@@ -1,4 +1,5 @@
 {
+    "name": "@max-63/notify",
     "scripts": {
         "build": "tsc"
     },
