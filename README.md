@@ -1,4 +1,4 @@
-# 📦 notify
+![Capture_d_écran_2025-06-20_164417-removebg-preview](https://github.com/user-attachments/assets/cdf934a9-d31a-44fa-891d-6dd62cde58a7)# 📦 notify
 
 Un **petit paquet JavaScript / TypeScript** pour afficher des **notifications toast** en bas à droite de l’écran.  
 Fonctionne aussi bien en JS qu'en TS, simple à utiliser et visuellement propre. 🔥
@@ -8,15 +8,16 @@ Fonctionne aussi bien en JS qu'en TS, simple à utiliser et visuellement propre.
 ## ✨ Aperçu
 
 Voici quelques captures d’écran montrant le résultat :
+![Uploading Capture_d_écran_![Capture_d_écran_2025-06-20_163859-removebg-preview](https://github.com/user-attachments/assets/629bd697-798b-4514-a43f-9d689df5a21c)
+![Capture_d_écran_2025-06-20_164225-removebg-preview](https://github.com/user-attachments/assets/3de63342-80b6-4411-8400-4482cbf21eaa)
+2025-06-20_164417-removebg-preview.png…]()
+![Capture_d_écran_2025-06-20_164448-removebg-preview](https://github.com/user-attachments/assets/fd8b0b3b-cb49-4bd4-ad84-e108c5e8955f)
+![Capture_d_écran_2025-06-20_164525-removebg-preview](https://github.com/user-attachments/assets/8ae36821-186b-4496-a567-7392389b5178)
+![Capture_d_écran_2025-06-20_164550-removebg-preview](https://github.com/user-attachments/assets/30e67e8e-5b3d-4274-81e9-e92ce5ddc112)
+![Capture_d_écran_2025-06-20_164609-removebg-preview](https://github.com/user-attachments/assets/402eb27d-88a2-4e68-845f-1d31301ce13a)
+![Capture_d_écran_2025-06-20_164632-removebg-preview](https://github.com/user-attachments/assets/f2665089-cda9-44de-969e-15c05cfeeeaf)
 
-![Capture d'écran 2025-06-20 164632](https://github.com/user-attachments/assets/96e18a04-007d-4809-b4f3-4079c592f2cf)  
-![Capture d'écran 2025-06-20 164609](https://github.com/user-attachments/assets/0f0532d1-2928-4399-a1b1-475003708bba)  
-![Capture d'écran 2025-06-20 164550](https://github.com/user-attachments/assets/76cf9a8b-9dc2-4fcd-a9e2-01013e856679)  
-![Capture d'écran 2025-06-20 164525](https://github.com/user-attachments/assets/eaa5cc5e-0f34-4ed6-a990-81f581d01f96)  
-![Capture d'écran 2025-06-20 164448](https://github.com/user-attachments/assets/90bb5a71-2ed1-4392-8ce3-bafd2dbd399f)  
-![Capture d'écran 2025-06-20 164417](https://github.com/user-attachments/assets/37822c7c-eb9f-420c-8e01-0ab4f0da1c06)  
-![Capture d'écran 2025-06-20 164225](https://github.com/user-attachments/assets/2acf9f15-2cbb-4836-ad1f-6ecf97213e18)  
-![Capture d'écran 2025-06-20 163859](https://github.com/user-attachments/assets/b75fe942-2348-4418-9621-5bdf63c9ee67)
+
 
 ---
 
