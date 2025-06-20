@@ -3,12 +3,26 @@
     "scripts": {
         "build": "tsc"
     },
-    "main": "dist/index.js",    
-    "types": "dist/index.d.ts",      
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
     "files": [
         "dist"
     ],
-    "keywords": ["toast", "notification", "typescript", "javascript", "alert", "success", "error", "warning", "info"],
+    "keywords": [
+        "toast",
+        "notification",
+        "typescript",
+        "javascript",
+        "alert",
+        "success",
+        "error",
+        "warning",
+        "info"
+    ],
     "author": "Adrien",
-    "license": "MIT"
+    "license": "MIT",
+    "version": "1.0.0",
+    "devDependencies": {
+        "typescript": "5.8.3"
+    }
 }
