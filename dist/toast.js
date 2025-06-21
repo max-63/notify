@@ -9,7 +9,9 @@ function getToastContainer() {
     return container;
 }
 function getIconPath(type) {
-    return `../dist/img/${type}.png`;
+    const localPath = "../dist/img/";
+    const path_complet = new URL(localPath, import.meta.url).href;
+    return `${path_complet}/${type}.png`;
 }
 export function showToast({ title = "Notification", message, duration = 4000, type = "info", style = "clair", icon = true, }) {
     const container = getToastContainer();
