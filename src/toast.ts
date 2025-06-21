@@ -22,7 +22,9 @@ function getToastContainer(): HTMLElement {
 }
 
 function getIconPath(type: "success" | "error" | "warning" | "info"): string {
-  return `../dist/img/${type}.png`;
+  const localPath = "../dist/img/";
+  const path_complet = new URL(localPath, import.meta.url).href;
+  return `${path_complet}/${type}.png`;
 }
 
 export function showToast({
