@@ -22,9 +22,27 @@ function getToastContainer(): HTMLElement {
 }
 
 function getIconPath(type: "success" | "error" | "warning" | "info"): string {
-  const localPath = "../dist/img/";
-  const path_complet = new URL(localPath, import.meta.url).href;
-  return `${path_complet}/${type}.png`;
+  const info = "https://icons.iconarchive.com/icons/custom-icon-design/flatastic-1/256/information-icon.png";
+  const success = "https://icons.iconarchive.com/icons/custom-icon-design/flatastic-2/256/success-icon.png";
+  const error = "https://icons.iconarchive.com/icons/custom-icon-design/flatastic-1/256/delete-icon.png";
+  const warning = "https://icons.iconarchive.com/icons/graphicloads/100-flat/256/warning-icon.png"
+  let iconPath: string;
+
+  switch (type) {
+    case "info":
+      iconPath = info;
+      break;
+    case "success":
+      iconPath = success;
+      break;
+    case "error":
+      iconPath = error;
+      break;
+    default:
+      iconPath = warning;
+  }
+
+  return iconPath;
 }
 
 export function showToast({
