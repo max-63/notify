@@ -7,7 +7,7 @@ document.head.innerHTML += `<style>
   position: fixed;
   bottom: 20px;
   right: 20px;
-  z-index: 9999;
+  z-index: 1000;
   display: flex;
   flex-direction: column;
   gap: 10px;
@@ -48,6 +48,7 @@ document.head.innerHTML += `<style>
   opacity: 0.95;
   transition: transform 0.4s ease, opacity 0.4s ease;
   animation: toastIn 0.5s ease forwards;
+  z-index: 1000;
 }
 
 .toast:hover {
